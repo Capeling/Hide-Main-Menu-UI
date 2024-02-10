@@ -6,7 +6,6 @@ using namespace geode::prelude;
 class $modify(MenuLayerExt, MenuLayer) {
 
 	bool m_isHidden = false;
-	CCSprite* m_eyeSprite;
 	CCMenuItemToggler* m_eyeButton;
 	CCMenu* m_eyeMenu;
 
