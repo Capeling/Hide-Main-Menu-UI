@@ -10,6 +10,7 @@
 	"name": "Hide Main Menu UI",
 	"developer": "Capeling",
 	"description": "Adds a button to the main menu that hides the UI!",
+	"repository": "https://github.com/Capeling/Hide-Main-Menu-UI",
 	"resources": {
 		"spritesheets": {
 			"EyeSheet": [
